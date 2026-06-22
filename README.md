@@ -96,9 +96,11 @@
 
 ###
 
-<br clear="both">
+<!-- Snake Game Repo View -->
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Sulochanakariyawasam2004/Sulochanakariyawasam2004/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
