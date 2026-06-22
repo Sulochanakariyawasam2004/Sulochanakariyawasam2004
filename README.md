@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Hi+I+am+Sulochana+Kariyawasam" />
 </p>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVobXF4ZHBycjMycWM0NnlsYTdzeXlpdDYwc2MycXh4NWhobHBhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eVSqI3mZYfaDIXYsnS/giphy.gif" />
+</p>
+
 ###
 
 <h6 data-importer="text" align="left">🔭 I’m currently working on Exploratory Data Analysis (EDA) projects and data visualization.<br>🌱 I’m currently learning Data Science, Python, SQL, Statistics, and Machine Learning.<br>🤝 I’m looking for help with Machine Learning, Feature Engineering, and real-world datasets.<br>👯 I’m looking to collaborate on Data Analysis, EDA, and beginner-friendly Data Science projects.<br>💬 Ask me about Python, SQL, Data Cleaning, Data Visualization, and EDA.<br>📫 How to reach me sulochanakariyawasam247720@gmail.com<br>⚡ Fun fact I love discovering hidden patterns and insights from data.</h6>
