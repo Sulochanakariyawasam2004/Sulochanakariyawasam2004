@@ -21,11 +21,11 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusirumandara123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sulochanakariyawasam2004&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusirumandara123&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulochanakariyawasam2004&theme=tokyonight" />
 </p>
 
 
