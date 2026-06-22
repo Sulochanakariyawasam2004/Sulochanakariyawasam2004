@@ -28,6 +28,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulochanakariyawasam2004&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulochanakariyawasam2004&layout=compact&theme=tokyonight" />
+</p>
+
 
 ###
 
