@@ -4,7 +4,9 @@
 
 ###
 
-<h2 data-importer="text" align="left">Hi 👋! My name is Sulochana and I'm from Sri Lanka.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Hi+I+am+Sulochana+Kariyawasam" />
+</p>
 
 ###
 
