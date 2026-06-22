@@ -20,6 +20,17 @@
 
 ###
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rusirumandara123&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusirumandara123&theme=tokyonight" />
+</p>
+
+
+###
+
 
 <img data-importer="image" align="right" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJncmd5YmZjd3ZkMXEzcmt3Y2VseDgwNGNiNjRha3R2OGY0YnV0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"  />
 
